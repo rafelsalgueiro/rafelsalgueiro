@@ -17,3 +17,4 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafelsalgueiro&show_icons=true&locale=en&theme=tokyonight" alt="rafelsalgueiro" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafelsalgueiro&label=Profile%20views&color=0e75b6&style=flat&theme=tokyonight" alt="rafelsalgueiro" /> </p>
